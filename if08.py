@@ -27,5 +27,5 @@ def main(number):
     if number == 6:
         return "Saturday"
     if number == 7:
-        return "Sunday"
-print(main(4))
+        return "Sunday" 
+print(main(3))
